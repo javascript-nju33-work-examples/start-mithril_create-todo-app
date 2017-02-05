@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "content": "foo",
+      "done": false
+    },
+    {
+      "id": 2,
+      "content": "bar",
+      "done": false
+    }
+  ]
+}
